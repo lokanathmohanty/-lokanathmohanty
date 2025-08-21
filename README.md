@@ -141,3 +141,7 @@
 
 <br>
 <p align="right" > Created with 🧡 by <a href="https://www.linkedin.com/in/lokanath-mohanty/">Lokanath Mohanty</a></p>
+<br>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
