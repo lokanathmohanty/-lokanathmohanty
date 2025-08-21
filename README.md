@@ -40,20 +40,18 @@
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px><h2>About Me</h2></picture> 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
 <br><br>
-
-- 🔭 I’m currently working on **UA IT(JKH IT)**
-
-- 🌱 I’m currently learning **Devops**
-
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
-
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
-
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
-
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+ 
 
 - ⚡ Fun fact **I think I'm funny**
+- 🔭 I’m currently working on my Portfolio Website :grin:
+- 🌱 I’m currently learning MERN Stack Development.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2026 Goals: Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!][linkedin] **supunnanayakkara01@gmail.com**
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
 
 <br>
 <h3 align="left">Connect with me:</h3>
