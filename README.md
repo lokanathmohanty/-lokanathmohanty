@@ -4,9 +4,11 @@
 <h1 align="center">Hi, I'm Lokanath Mohanty <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
  <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;MERN STACK Developer;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
+
+<hr>
  
 <p align="center"> As a fresh full stack web developer, I am passionate about creating innovative and seamless digital experiences. With a strong foundation in both front-end and back-end development, I am dedicated to crafting efficient and user-friendly solutions. Eager to collaborate, learn, and contribute to impactful projects in the tech industry. Let's connect and discuss how we can work together to bring ideas to life. 🛠️</p>
 <p align="center"> 
