@@ -2,7 +2,12 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi, I'm Lokanath Mohanty <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<h3 align="center">A passionate Programmer from india.</h3>
+ <p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;MERN STACK Developer;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
+ 
 <p align="center"> As a fresh full stack web developer, I am passionate about creating innovative and seamless digital experiences. With a strong foundation in both front-end and back-end development, I am dedicated to crafting efficient and user-friendly solutions. Eager to collaborate, learn, and contribute to impactful projects in the tech industry. Let's connect and discuss how we can work together to bring ideas to life. 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
