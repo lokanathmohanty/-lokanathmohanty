@@ -1,8 +1,8 @@
-![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png)
+ 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1>
-<h3 align="center">A passionate Programmer from Sri lanka</h3>
+<h1 align="center">Hi 👋, I'm Lokanath  MOhanty</h1>
+<h3 align="center">A passionate Programmer from india.</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
@@ -110,9 +110,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
  </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
+ 
  <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -144,7 +142,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+ 
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
+<p align="right" > Created with 🧡 by <a href="https://www.linkedin.com/in/lokanath-mohanty/">Lokanath Mohanty</a></p>
