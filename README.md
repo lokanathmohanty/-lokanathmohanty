@@ -1,7 +1,7 @@
  
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Lokanath Mohanty</h1>
+<h1 align="center">Hi <a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>, I'm Lokanath Mohanty</h1>
 <h3 align="center">A passionate Programmer from india.</h3>
 <p align="center"> As a fresh full stack web developer, I am passionate about creating innovative and seamless digital experiences. With a strong foundation in both front-end and back-end development, I am dedicated to crafting efficient and user-friendly solutions. Eager to collaborate, learn, and contribute to impactful projects in the tech industry. Let's connect and discuss how we can work together to bring ideas to life. 🛠️</p>
 <p align="center"> 
