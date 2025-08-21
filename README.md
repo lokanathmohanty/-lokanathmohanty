@@ -136,10 +136,20 @@
  
  <br><br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+ 
+## <b>💪Quote || Fact</b>
+<br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
+
+<br>
+
+#### <p align="center"><b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">Thank you for taking the time to read my profile 🤣🤣</b></p>
+
+ 
+
+ 
 <br>
 <p align="right" > Created with 🧡 by <a href="https://www.linkedin.com/in/lokanath-mohanty/">Lokanath Mohanty</a></p>
 <br>
